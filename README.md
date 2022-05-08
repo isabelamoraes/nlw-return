@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="Web Application Demo" src="https://github.com/isabelamoraes/nlw-return/blob/main/demo/widget.gif?raw=true" width="69%">
+  <img alt="Web Application Demo" src="https://github.com/isabelamoraes/nlw-return/blob/main/demo/widget.gif?raw=true" width="70%">
   <img alt="Mobile Application Demo" src="https://github.com/isabelamoraes/nlw-return/blob/main/demo/app.gif?raw=true" width="23%">
 </p>
 
